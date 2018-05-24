@@ -2,10 +2,10 @@
 
 <widget xmlns ="http://www.w3.org/ns/widgets"
 	xmlns:gap="http://phonegap.com/ns/1.0"
-	id="com.phonegap.app5"
+	id="com.phonegap.app8"
 	version="1.0.0">
 	
-	<name> app5-2018 Notificaciones del Dispositivo </name>
+	<name> app5-2018 Mostrar aplicaciones  </name>
 	
 	<description>
 	Aplicacion que realiza la vibracion y beep del Dispositivo
